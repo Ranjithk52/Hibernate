@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<employee>
+<id>123</id>
+<name>Rajesh</name>
+<email>rajesh@email.com</email>
+</employee>
