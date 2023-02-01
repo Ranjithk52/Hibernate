@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/main/java/DefaultNamespace/Hello.java=UTF-8
+encoding//src/main/java/DefaultNamespace/HelloService.java=UTF-8
+encoding//src/main/java/DefaultNamespace/HelloServiceLocator.java=UTF-8
+encoding//src/main/java/DefaultNamespace/HelloSoapBindingStub.java=UTF-8
+encoding//src/main/java/com/ojas/producer/Calculate.java=UTF-8
+encoding//src/main/java/com/ojas/producer/CalculateService.java=UTF-8
+encoding//src/main/java/com/ojas/producer/CalculateServiceLocator.java=UTF-8
+encoding//src/main/java/com/ojas/producer/CalculateSoapBindingStub.java=UTF-8

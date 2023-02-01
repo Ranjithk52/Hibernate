@@ -1,0 +1,12 @@
+package com.log.query;
+
+public interface QueryDAO {
+	
+    public String INSERT_USER = "INSERT INTO USERDATA(USERNAME,PASSWORD,TYPE) VALUES(?,?,?)";
+	
+	public String GET_USER = "SELECT TYPE FROM USERDATA WHERE USERNAME=? AND PASSWORD=?";
+	
+	public String GET_PASSWORD = "SELECT PASSWORD FROM USERDATA WHERE USERNAME=? AND TYPE=?";
+	
+	
+}
